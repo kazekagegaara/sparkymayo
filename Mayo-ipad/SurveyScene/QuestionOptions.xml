@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<questionandoptions>
+        <objective>Yes</objective>
+        <question>The selected photo is of which eye</question>
+        <option>Left</option>
+        <option>Right</option>
+</questionandoptions>
+<questionandoptions>
+    <objective>yes</objective>
+    <question>Have you recently had any accident</question>
+    <option>yes</option>
+    <option>no</option>
+</questionandoptions>
+<questionandoptions>
+    <question>Have you been recentely diagnosed with diabetes</question>
+    <objective>yes</objective>
+    <option>Yes</option>
+    <option>No</option>
+</questionandoptions>
+<questionandoptions>
+    <objective>No</objective>
+    <question>Do you have any of the following symptoms.</question>
+    <option>Blured vision</option>
+    <option>Change in vision</option>
+    <option>Eye pain</option>
+    <option>Burning sensation</option>
+</questionandoptions>
+<questionandoptions>
+    <objective>Yes</objective>
+    <question>Do you have a history eye related problems</question>
+    <option>Yes</option>
+    <option>No</option>
+</questionandoptions>
+</questions>
